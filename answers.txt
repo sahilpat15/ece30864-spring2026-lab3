@@ -3,5 +3,5 @@ You get to develop in smaller pieces so you catch errors sooner
 Scope can creep because requirements can change a lot.
 Planning and estimating long term can be harder because priorities shift.
 
-
-
+Runs Scrum events and keeps the team following the process.
+Removes blockers and helps the team improve how they work.
