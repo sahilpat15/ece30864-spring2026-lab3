@@ -1,5 +1,5 @@
 You can get feedback quickly which allows you to fix mistakes quicker. 
-
+You get to develop in smaller pieces so you catch errors sooner
 
 
 
