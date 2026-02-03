@@ -5,3 +5,17 @@ Planning and estimating long term can be harder because priorities shift.
 
 Runs Scrum events and keeps the team following the process.
 Removes blockers and helps the team improve how they work.
+
+
+Sprint Planning
+Points to discuss
+What work will be done this sprint and what the sprint goal is.
+How the team will approach the work and what tasks are needed.
+Daily Scrum
+Points to discuss
+Progress toward the sprint goal and what is planned next.
+Any blockers that could stop progress.
+Sprint Review
+Points to discuss
+Demo what was completed and what was not completed.
+Get stakeholder feedback and update the backlog priorities.
