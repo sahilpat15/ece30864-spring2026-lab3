@@ -19,3 +19,13 @@ Sprint Review
 Points to discuss
 Demo what was completed and what was not completed.
 Get stakeholder feedback and update the backlog priorities.
+
+
+Epic
+A large body of work that groups multiple stories. It is usually too big for one sprint.
+Story
+A user focused feature request. It delivers user value and can be completed in a short time.
+Bug
+A defect where something is broken or incorrect. It needs a fix.
+Task
+A piece of work that may not be user facing, like setup, refactoring, or a small technical job.
